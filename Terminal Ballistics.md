@@ -1,0 +1,12 @@
+Terminal ballistics covers all aspects of events that occur when the projectile reaches the
+target.
+
+Here are some key aspects covered by terminal ballistics:
+1. **Penetration mechanics:** This involves understanding how the projectile penetrates the target, whether it be a solid object, armor, or other materials. Factors like projectile design, velocity, and impact angle play a crucial role in penetration mechanics.
+2. **Behind armor effects:** Terminal ballistics examines the effects that occur behind armor upon penetration. This includes evaluating the damage inflicted on the target after the projectile has passed through protective barriers.
+3. **Fragment spray patterns and associated lethality:** In cases where a projectile fragments upon impact, terminal ballistics studies the spray patterns and the lethality associated with these fragments. The distribution and energy of fragments can influence the damage caused to the target.
+4. **Blast overpressure:** For explosive projectiles or munitions, terminal ballistics considers the effects of blast overpressure. This includes the shockwave created upon detonation and its impact on structures and living organisms.
+5. **Nonlethal effects:** Terminal ballistics also encompasses the study of nonlethal projectiles, such as those designed for crowd control or incapacitation without causing lethal harm. This involves understanding the effects on the human body or other targets to ensure a controlled and predictable outcome.
+6. **Effects on living tissue:** With a focus on wound ballistics, terminal ballistics explores the effects of projectiles on living tissue. This includes understanding the patterns of injury, wound channels, and the overall physiological impact on the human or animal body.
+
+The rise of less-than-lethal armaments has spurred the development of a specialized discipline called wound ballistics. This field focuses on studying how projectiles affect living tissues, gaining importance with the increased use of nonlethal weapons. Researchers in wound ballistics strive to deepen our understanding of the medical and physiological consequences of projectile impacts, aiming to improve the development of more effective and humane less-lethal weaponry.
